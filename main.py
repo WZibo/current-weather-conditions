@@ -2,7 +2,7 @@ import requests
 
 
 def fetch_weather(location):
-    api_key = "539af0eba862ec1eae9277882c6b68c5"
+    api_key = "——————"
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
     # Fetching weather data based on location
